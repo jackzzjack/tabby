@@ -20,7 +20,7 @@
 
 <br/>
 <p  align="center">
-Diese README ist auch verfügbar in: <a  href="./README.md">:gb: English</a> · <a  href="./README.ru-RU.md">:ru: Русский</a> · <a  href="./README.ko-KR.md">:kr: 한국어</a> · <a  href="./README.zh-CN.md">:cn: 简体中文</a> · <a  href="./README.it-IT.md">:it: Italiano</a> · <a href="./README.ja-JP.md">:jp: 日本語</a> · <a href="./README.id-ID.md">:id: Bahasa Indonesia</a>
+Diese README ist auch verfügbar in: <a  href="./README.md">:gb: English</a> · <a  href="./README.ru-RU.md">:ru: Русский</a> · <a  href="./README.ko-KR.md">:kr: 한국어</a> · <a  href="./README.zh-CN.md">:cn: 简体中文</a> · <a  href="./README.it-IT.md">:it: Italiano</a> · <a href="./README.ja-JP.md">:jp: 日本語</a> · <a href="./README.id-ID.md">:id: Bahasa Indonesia</a> · <a href="./README.zh-TW.md">:tw: 繁體中文</a>
 </p>
 
 ----
@@ -43,14 +43,14 @@ Diese README ist auch verfügbar in: <a  href="./README.md">:gb: English</a> · 
 
 # Inhaltsverzeichnis <!-- omit in toc -->
 
-- [Was Tabby ist und was nicht](#what-tabby-is-and-isnt)
-- [Terminal-Funktionen](#terminal-features)
+- [Was Tabby ist und was nicht](#was-tabby-ist-und-was-nicht)
+- [Terminal-Funktionen](#terminal-funktionen)
 - [SSH Client](#ssh-client)
-- [Serielles Terminal](#serial-terminal)
-- [Portabel](#portable)
+- [Serielles Terminal](#serielles-terminal)
+- [Portabel](#portabel)
 - [Plugins](#plugins)
-- [Themen](#themes)
-- [Beitragen](#contributing) 
+- [Themen](#themen)
+- [Beitragen](#beitragen)
 
 <a  name="about"></a>  
 
