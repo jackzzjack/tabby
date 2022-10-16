@@ -21,7 +21,7 @@
 
 <br/>
 <p align="center">
-This README is also available in: <a  href="./README.ru-RU.md">:ru: Русский</a> · <a  href="./README.ko-KR.md">:kr: 한국어</a> · <a  href="./README.zh-CN.md">:cn: 简体中文</a> · <a  href="./README.it-IT.md">:it: Italiano</a> · <a href="./README.de-DE.md">:de: Deutsch</a> · <a href="./README.ja-JP.md">:jp: 日本語</a> · <a href="./README.id-ID.md">:id: Bahasa Indonesia</a>
+This README is also available in: <a  href="./README.ru-RU.md">:ru: Русский</a> · <a  href="./README.ko-KR.md">:kr: 한국어</a> · <a  href="./README.zh-CN.md">:cn: 简体中文</a> · <a  href="./README.it-IT.md">:it: Italiano</a> · <a href="./README.de-DE.md">:de: Deutsch</a> · <a href="./README.ja-JP.md">:jp: 日本語</a> · <a href="./README.id-ID.md">:id: Bahasa Indonesia</a> · <a href="./README.zh-TW.md">:tw: 繁體中文</a>
 </p>
 
 ----
@@ -44,14 +44,14 @@ This README is also available in: <a  href="./README.ru-RU.md">:ru: Русски
 
 # Contents <!-- omit in toc -->
 
-- [Apa itu Tabby dan bukan Tabby](#what-tabby-is-and-isnt)
-- [Fitur Terminal](#terminal-features)
-- [SSH Client](#ssh-client)
+- [What Tabby is and isn't](#what-tabby-is-and-isnt)
+- [Fitur terminal](#fitur-terminal)
+- [Klien SSH](#klien-ssh)
 - [Serial Terminal](#serial-terminal)
-- [Portabel](#portable)
+- [Portabel](#portabel)
 - [Plugins](#plugins)
-- [Tema](#themes)
-- [Kontribusi](#contributing)
+- [Tema](#tema)
+- [Kontribusi](#kontribusi)
 
 <a name="about"></a>
 
